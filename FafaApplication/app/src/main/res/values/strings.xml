@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FafaApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fafa">Fafa Activity</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="search">Search</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="show_lyrics">Press the button below to show the lyrics for the song &quot;Let it be&quot; by The Beatles</string>
+    <string name="load_lyrics">View the Lyrics</string>
+
+    <string name="intro">The button below shows how to link to song lyrics from within the app.\n
+    If the lyrics plugin is already installed, pressing the button will show the lyrics.\n
+    If the plugin is not yet installed, the user is directed to the download page.\n
+    The lyrics plugin also monitors on-device player and scrobbling activities, displaying a notification everytime a lyrics is identified.
+    </string>
+</resources>
